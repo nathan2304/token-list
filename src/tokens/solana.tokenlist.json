@@ -30890,11 +30890,11 @@
     },
     {
       "chainId": 101,
-      "address": "RuWFALHvbEY224W5ktzSVm4RP1FcV1wykJkfmuCQXkt",
+      "address": "DX9QnoopAnA1DN1YxNZRdLfKd1V3nA2PCnmtsfApWsaS",
       "symbol": "RISK-LINK",
       "name": "RISK-LINK",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/RuWFALHvbEY224W5ktzSVm4RP1FcV1wykJkfmuCQXkt/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DX9QnoopAnA1DN1YxNZRdLfKd1V3nA2PCnmtsfApWsaS/logo.svg",
       "tags": [
         "utility-token"
       ],
