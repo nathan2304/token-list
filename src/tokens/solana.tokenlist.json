@@ -36407,6 +36407,21 @@
         "instagram": "https://www.instagram.com/clement_aglr"
       }
     },
+ {
+      "chainId": 101,
+      "address": "DX9QnoopAnA1DN1YxNZRdLfKd1V3nA2PCnmtsfApWsaS",
+      "symbol": "GRC",
+      "name": "Gravencoin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DX9QnoopAnA1DN1YxNZRdLfKd1V3nA2PCnmtsfApWsaS/logo.png",
+      "tags": [
+        "utility-token",
+        "international-token"
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/clement_aglr"
+      }
+    },
     {
       "chainId": 103,
       "address": "7SQq39bhiP45dwvmtEUpGqiddpycHjWQ6nzAM2sTJ9Bi",
